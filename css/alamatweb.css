@@ -1,0 +1,220 @@
+/* body {background-color: white;} */
+/* .head1 {
+    background-color: #c77dff;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 10px;
+    margin-top: -34%;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+.iyas {
+    width: 50px;
+    height: 50px;
+    color: transparent;
+    margin: 50px;
+}
+.asa {
+    display: inline-block;
+    color: white;
+    margin-right: 40px;
+    padding: 3px;
+    font-size: 18px
+}
+.asa:hover {
+    font-size: 23px;
+    font-weight: 700px;
+    animation-name: warna;
+    animation-direction: 5s;
+} */
+/* .winda9 {
+    height: 400px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 50px;
+} */
+/* .aiya {
+    width: 400px;
+    padding: 20px;
+    background-color: #5d9f59;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid white;
+    margin-top: 10px;
+}
+.aiya::placeholder {
+    color: white;
+} */
+/* .aiya1 {
+    width: 390px;
+    background-color: #5d9f59;
+    justify-content: center;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid white;
+    padding: 25px;
+    margin-top: 10px;
+}
+.aiya1::placeholder {
+    color: white;
+} */
+/* .winda11 {
+    padding: 5px 25px;
+    border-radius: 13px;
+    background-color: #5d9f59;
+    color: white;
+    border: 1px solid white;
+    transition: all linear 0.5s;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    margin-left: 160px;
+    margin-top: 40px;
+} 
+.winda11:hover {
+    background-color: white;
+    color: #5d9f59;
+    border: 1px solid #5d9f59;
+    padding: 8px 30px;
+} */
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+} */
+
+/* body {
+    background: #e6bbff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    height: 100vh;
+    margin: -20px 0 50px;
+    padding: 10px;
+} */
+
+/* .container { */
+    /* background-color: cadetblue; */
+    /* border-radius: 5px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.425);
+    position: relative;
+    overflow: hidden;
+    width: 768px;
+    max-width: 100%;
+    min-height: 522px;
+    min-width: 370px;
+    margin-top: 100px;
+} */
+
+.card-container {
+    display: flex;
+}
+
+.left {
+    flex: 1;
+    height: 522px;
+    background-color: darkcyan;
+}
+
+.right {
+    display: flex;
+    flex: 1;
+    height: 800px;
+    background-color: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    flex: 1;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+
+.left-container {
+    height: 505;
+    width: 80%;
+    text-align: center;
+    line-height: 22px;
+}
+
+.left p {
+    font-size: 0.9rem;
+}
+
+h2 {
+    font-size: 35px;
+    margin-bottom: 1rem;
+    margin-top: -300px;
+}
+
+.right-container {
+    width: 90%;
+    height: 80%;
+    text-align: center;
+}
+
+/* input,
+textarea {
+    background-color: white;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+    font-size: 0.8rem;
+} */
+
+/* input:focus,
+textarea:focus {
+    outline: 1px solid cadetblue;
+
+} */
+/* .ahah {
+    width: 100px;
+    height: 30px;
+    background-color: cadetblue;
+    
+
+} */
+
+/* button {
+    border-radius: 20px;
+    border: 1px solid cadetblue;
+    background-color: cadetblue;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-out;
+}
+
+
+button:hover {
+    opacity: 0.7;
+} */
+
+.foto1 {
+    width: 400px;
+    height: 330px;
+    /* margin-right: -30px; */
+    align-items: center;
+}
+.foto2 {
+    width: 400px;
+    height: 330px;
+    align-items: center;
+}
